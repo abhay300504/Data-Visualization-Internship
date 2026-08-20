@@ -15,7 +15,7 @@
 
 | Role | Team Member & Location |
 | :--- | :--- |
-| **Team Lead** | Abhay Sahu |
+| **Team Lead** | Abhay Sahu (India) |
 | **Member** | Abdullah Zafar (Pakistan) |
 | **Member** | Alimot Ola (Nigeria) |
 | **Member** | Kalyani Kondepu (USA) |
