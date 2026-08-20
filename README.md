@@ -38,6 +38,14 @@ The **Excelerate User Engagement Dashboard** transforms complex user and opportu
 
 ---
 
+## 🖼️ Dashboard Wireframe
+
+Below is the initial wireframe layout conceptualized for the dashboard design:
+
+![Dashboard Wireframe](Dashboard%20Wireframe.jpg)
+
+---
+
 ## 🛠️ Tech Stack & Tools
 
 * **Data Processing & Cleaning**: Python (`Pandas`, `NumPy`) for handling missing values, standardizing formats, and merging datasets.
