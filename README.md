@@ -42,7 +42,7 @@ The **Excelerate User Engagement Dashboard** transforms complex user and opportu
 
 Below is the initial wireframe layout conceptualized for the dashboard design:
 
-![Dashboard Wireframe](Dashboard%20Wireframe.jpg)
+![Dashboard Wireframe](Dashboard Wireframe.jpg)
 
 ---
 
