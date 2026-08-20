@@ -13,10 +13,12 @@
 
 ## 👥 Meet the Team
 
-| Role | Team Member |
+| Role | Team Member & Location |
 | :--- | :--- |
 | **Team Lead** | Abhay Sahu[cite: 4] |
-| **Members** | Abdullah Zafar, Alimot Ola, Kalyani Kondepu[cite: 4] |
+| **Member** | Abdullah Zafar (Pakistan) |
+| **Member** | Alimot Ola (Nigeria) |
+| **Member** | Kalyani Kondepu (USA) |
 
 ---
 
